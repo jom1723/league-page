@@ -32,7 +32,7 @@ export const managers = [
       "name": "Jim",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Pitstone", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Stats man that breathes NFL",
       "photo": "/managers/Jim.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "car", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -54,7 +54,7 @@ export const managers = [
       "name": "Christopher",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Watford", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Dark-Horse, loves to leave points on the bench.",
       "photo": "/managers/Christopher.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -76,7 +76,7 @@ export const managers = [
       "name": "Tim",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Kings Langley", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Everyone thinks he needs to rebuild apart from him.",
       "photo": "/managers/Tim.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "lv", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -98,7 +98,7 @@ export const managers = [
       "name": "Chris",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "A Big Hill", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Injury Jinx, he's a tape guy. Also Finkle is Einhorn.",
       "photo": "/managers/Chris.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -120,7 +120,7 @@ export const managers = [
       "name": "Cherie",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Up North", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Fantasy football choker and king of the over enthusiastic dummy",
       "photo": "/managers/Charlie.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -142,7 +142,7 @@ export const managers = [
       "name": "Kamal",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Hatchend", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Runs a 4.23 40m, nothing this guy doesnt know about the NFL",
       "photo": "/managers/Kamal.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "lv", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
