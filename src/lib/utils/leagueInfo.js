@@ -14,7 +14,7 @@ export const homepageText = `
   <p>A lover of injury prone RBs and hoarder of average to decent QBs @Chris finds himself in purgatory, not knowing whether he has a roster to compete or needs sell off for picks and commit to the rebuild.</p>
   <p>The current champion and trade hater @Kamal deserved his win and will look to build on his success by trying to run it back with his excellent RB core and quality but ageing TEs.</p>
   <p>The dark horse of the group @Christopher finds himself with a very young group of players that has the potential to blossom into a full blown dynasty. First pick in the draft in 2021 and second pick in 2022 can only help to bolster the potential.</p>
-  <p>Finally we have commissioner @Jim a lover of trades that is ferociously trying to rebuild to become com petitive after a shocking start-up draft.</p>
+  <p>Finally we have commissioner @Jim, a lover of trades that is ferociously trying to rebuild to become competitive after a shocking start-up draft.</p>
 `;
 
 /*   STEP 3   */
