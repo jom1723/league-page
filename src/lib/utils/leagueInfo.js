@@ -9,7 +9,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Founded in 2017, UKFC South League began as redraft league amongst a small group of friends and Tim.</p>
   <p>In 2020, the league converted into a fully-fledged dynasty league. Each year, the managers compete to win the Trophy McTrophy Face Cup and avoid the ever-humiliating Toilet Bowl.</p>
-
+  <p>Serial winner @Cherie has so far found himself without a Dynasty Championship even though he boasts the best win/loss ratio for the entire league and now finds himself with an ageing roster.</p>
+  <p>The king of redraft @BigTimBond has really struggled with the switch in format and languishes at the bottom of the pile with a rather embarrassing roster (outside of his QBs), first pick in the 2022 rookie draft is a very small shining light.</p>
+  <p>A lover of injury prone RBs and hoarder of average to decent QBs @Chris finds himself in purgatory, not knowing whether he has a roster to compete or needs sell off for picks and commit to the rebuild.</p>
+  <p>The current champion and trade hater @Kamal deserved his win and will look to build on his success by trying to run it back with his excellent RB core and quality but ageing TEs.</p>
+  <p>The dark horse of the group @Christopher finds himself with a very young group of players that has the potential to blossom into a full blown dynasty. First pick in the draft in 2021 and second pick in 2022 can only help to bolster the potential.</p>
+  <p>Finally we have commissioner @Jim a lover of trades that is ferociously trying to rebuild to become com petitive after a shocking start-up draft.</p>
 `;
 
 /*   STEP 3   */
