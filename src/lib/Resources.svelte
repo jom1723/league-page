@@ -90,6 +90,13 @@ import { dynasty } from './utils/helper';
             separator: true,
         },
         {
+            name: "Fantasy Pros",
+            url: "https://www.fantasypros.com/",
+            icon: "insights",
+            premium: true,
+            separator: true,
+        },
+        {
             name: "Reddit FF Trade Analyzer",
             url: "https://www.reddit.com/r/TradeAnalyzerFF/",
             icon: "assessment",
