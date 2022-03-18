@@ -81,6 +81,13 @@ import { dynasty } from './utils/helper';
             premium: false,
             separator: true,
             redraftOnly: true,
+        }, 
+        {
+            name: "Keep Trade Cut",
+            url: "https://keeptradecut.com/trade-calculator",
+            icon: "calculate",
+            premium: false,
+            separator: true,
         },
         {
             name: "Reddit FF Trade Analyzer",
